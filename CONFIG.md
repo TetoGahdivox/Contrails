@@ -17,8 +17,6 @@ tg-df-feed-v2
 
 ★新フィードテスト中★ ドールズフロントラインIP関連のポストを抽出するフィードです！Blueskyユーザーの指揮官や先生を探したり、戦術人形たちの勇姿を眺めたい方はご利用ださい！\n\n条件追加/修正のご希望は遠慮なく作成者まで！
 
-ドルフロ|ドールズフロントライン|ニューラルクラウド|少女前线|소녀전선|girls frontline|云图计划|Neural Cloud|뉴럴클라우드|逆コーラップス|パン屋作戦|パン屋少女|逆向坍塌|面包房行动|面包房少女|Reverse Collapse|Code Name Bakery|역붕괴|베이커리작전 (...and things like that!)
-
 # searchTerms
 
 > There are three types of search terms:
