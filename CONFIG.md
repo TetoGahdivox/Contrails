@@ -3,13 +3,13 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+emotional-support-pets-test
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+Emotional Support Pets (test)
 
 # description
 
@@ -25,7 +25,6 @@ Cute animals feed
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
 - cats
 - dogs
 - penguins
