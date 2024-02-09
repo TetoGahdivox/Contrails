@@ -3,19 +3,23 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets-test
+tg-df-feed-v2
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets (test)
+ドルフロ関連 / 少女前线
 
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+★新フィードテスト中★ ドールズフロントラインIP関連のポストを抽出するフィードです！Blueskyユーザーの指揮官や先生を探したり、戦術人形たちの勇姿を眺めたい方はご利用ださい！
+
+条件追加/修正のご希望は遠慮なく作成者まで！
+
+ドルフロ|ドールズフロントライン|ニューラルクラウド|少女前线|소녀전선|girls frontline|云图计划|Neural Cloud|뉴럴클라우드|逆コーラップス|パン屋作戦|パン屋少女|逆向坍塌|面包房行动|面包房少女|Reverse Collapse|Code Name Bakery|역붕괴|베이커리작전 (...and things like that!)
 
 # searchTerms
 
@@ -25,11 +29,34 @@ Cute animals feed
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- ドルフロ
+- ドールズフロントライン
+- ニューラルクラウド
+- 少女前线
+- 소녀전선
+- girlsfrontline
+- "girls frontline"
+- 云图计划
+- NeuralCloud
+- "Neural Cloud"
+- 뉴럴클라우드
+- 逆コーラップス
+- パン屋作戦
+- パン屋少女
+- 逆向坍塌
+- 面包房行动
+- 面包房少女
+- "Reverse Collapse"
+- "Code Name Bakery"
+- 역붕괴
+- 베이커리작전
+- 羽中
+- 黃翀
+- サンボーン
+- SUNBORN
+- 散爆
+- 雲母組
+- "mica team"
 
 # denyList
 
