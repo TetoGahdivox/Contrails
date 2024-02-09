@@ -32,10 +32,10 @@ tg-df-feed-v2
 - 少女前线
 - 소녀전선
 - girlsfrontline
-- "girls frontline"
+- girls frontline
 - 云图计划
 - NeuralCloud
-- "Neural Cloud"
+- Neural Cloud
 - 뉴럴클라우드
 - 逆コーラップス
 - パン屋作戦
@@ -43,8 +43,8 @@ tg-df-feed-v2
 - 逆向坍塌
 - 面包房行动
 - 面包房少女
-- "Reverse Collapse"
-- "Code Name Bakery"
+- Reverse Collapse
+- Code Name Bakery
 - 역붕괴
 - 베이커리작전
 - 羽中
@@ -53,7 +53,7 @@ tg-df-feed-v2
 - SUNBORN
 - 散爆
 - 雲母組
-- "mica team"
+- mica team
 
 # denyList
 
