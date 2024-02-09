@@ -9,13 +9,13 @@ emotional-support-pets-test
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-null
+test feed
 
 # description
 
 > This is the description of the feed.
 
-null
+hoge
 
 # searchTerms
 
