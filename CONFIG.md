@@ -3,20 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-tg-df-feed-v2
+emotional-support-pets-test
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-テスト中...
+null
 
 # description
 
 > This is the description of the feed.
 
-★新フィードテスト中★ ドールズフロントラインIP関連のポストを抽出するフィードです！Blueskyユーザーの指揮官や先生を探したり、戦術人形たちの勇姿を眺めたい方はご利用ださい！  
-条件追加/修正のご希望は遠慮なく作成者まで！
+null
 
 # searchTerms
 
@@ -26,34 +25,7 @@ tg-df-feed-v2
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- ドルフロ
-- ドールズフロントライン
-- ニューラルクラウド
-- 少女前线
-- 소녀전선
-- girlsfrontline
-- girls frontline
-- 云图计划
-- NeuralCloud
-- Neural Cloud
-- 뉴럴클라우드
-- 逆コーラップス
-- パン屋作戦
-- パン屋少女
-- 逆向坍塌
-- 面包房行动
-- 面包房少女
-- Reverse Collapse
-- Code Name Bakery
-- 역붕괴
-- 베이커리작전
-- 羽中
-- 黃翀
-- サンボーン
-- SUNBORN
-- 散爆
-- 雲母組
-- mica team
+- ぶるすこ
 
 # denyList
 
@@ -74,4 +46,4 @@ true
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 
-![](vgoFVAtu_400x400.jpg)
+![](avatar.jpg)
